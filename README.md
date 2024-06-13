@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [https://github.com/ismailceylan/restorm](restorm)
+- 🔭 I’m currently working on [restorm](https://github.com/ismailceylan/restorm)
 
 <!--
 **ismailceylan/ismailceylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
