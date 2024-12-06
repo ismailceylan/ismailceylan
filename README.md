@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [huffmanjs](https://github.com/ismailceylan/huffmanjs)
+- 🔭 I’m currently working on [huffmanjs](https://github.com/ismailceylan/tokenizer)
 
 <!--
 **ismailceylan/ismailceylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
