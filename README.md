@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [tokenizer](https://github.com/ismailceylan/tokenizer)
+- 🔭 I’m currently working on [ast-generator](https://github.com/ismailceylan/ast-generator-3)
 
 <!--
 **ismailceylan/ismailceylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
